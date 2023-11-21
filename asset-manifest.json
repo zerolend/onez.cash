@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3aa60818.css",
-    "main.js": "/static/js/main.d6d42345.js",
+    "main.css": "/static/css/main.c20be568.css",
+    "main.js": "/static/js/main.2693a95e.js",
     "static/js/9148.d98b6f2b.chunk.js": "/static/js/9148.d98b6f2b.chunk.js",
     "static/js/1888.521bf467.chunk.js": "/static/js/1888.521bf467.chunk.js",
     "static/js/9642.e8a26ca8.chunk.js": "/static/js/9642.e8a26ca8.chunk.js",
@@ -82,8 +82,8 @@
     "static/media/ETH.svg": "/static/media/ETH.60d76e95f9244f0114ca.svg",
     "static/media/NetworkETH.svg": "/static/media/NetworkETH.60d76e95f9244f0114ca.svg",
     "static/media/Default.svg": "/static/media/Default.263299a6e27011255c9245a07bc7d438.svg",
-    "main.3aa60818.css.map": "/static/css/main.3aa60818.css.map",
-    "main.d6d42345.js.map": "/static/js/main.d6d42345.js.map",
+    "main.c20be568.css.map": "/static/css/main.c20be568.css.map",
+    "main.2693a95e.js.map": "/static/js/main.2693a95e.js.map",
     "9148.d98b6f2b.chunk.js.map": "/static/js/9148.d98b6f2b.chunk.js.map",
     "1888.521bf467.chunk.js.map": "/static/js/1888.521bf467.chunk.js.map",
     "9642.e8a26ca8.chunk.js.map": "/static/js/9642.e8a26ca8.chunk.js.map",
@@ -124,7 +124,7 @@
     "1896.3e89b3bc.chunk.js.map": "/static/js/1896.3e89b3bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aa60818.css",
-    "static/js/main.d6d42345.js"
+    "static/css/main.c20be568.css",
+    "static/js/main.2693a95e.js"
   ]
 }
