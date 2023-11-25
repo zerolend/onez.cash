@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.63647acc.css",
-    "main.js": "/static/js/main.15fc39e1.js",
+    "main.js": "/static/js/main.dd9ebbea.js",
     "static/js/9148.d98b6f2b.chunk.js": "/static/js/9148.d98b6f2b.chunk.js",
     "static/js/1888.521bf467.chunk.js": "/static/js/1888.521bf467.chunk.js",
     "static/js/9642.e8a26ca8.chunk.js": "/static/js/9642.e8a26ca8.chunk.js",
@@ -91,15 +91,15 @@
     "static/media/WBTC.svg": "/static/media/WBTC.9708e6cde8ed215e7770.svg",
     "static/media/USDT.svg": "/static/media/USDT.b702aadee68c79370420.svg",
     "static/media/DAI.svg": "/static/media/DAI.3b8fc80d3770948ee661.svg",
-    "static/media/DFYN.svg": "/static/media/DFYN.c1458f8ab117a3c7258a.svg",
     "index.html": "/index.html",
+    "static/media/DFYN.svg": "/static/media/DFYN.c1458f8ab117a3c7258a.svg",
     "static/media/WETH.svg": "/static/media/WETH.e66403efafdc442c30ce.svg",
     "static/media/BNB.svg": "/static/media/BNB.f8b675da6e0a9ad5c848.svg",
     "static/media/ETH.svg": "/static/media/ETH.60d76e95f9244f0114ca9f60d188f9f7.svg",
     "static/media/NetworkETH.svg": "/static/media/NetworkETH.60d76e95f9244f0114ca.svg",
     "static/media/Default.svg": "/static/media/Default.263299a6e27011255c9245a07bc7d438.svg",
     "main.63647acc.css.map": "/static/css/main.63647acc.css.map",
-    "main.15fc39e1.js.map": "/static/js/main.15fc39e1.js.map",
+    "main.dd9ebbea.js.map": "/static/js/main.dd9ebbea.js.map",
     "9148.d98b6f2b.chunk.js.map": "/static/js/9148.d98b6f2b.chunk.js.map",
     "1888.521bf467.chunk.js.map": "/static/js/1888.521bf467.chunk.js.map",
     "9642.e8a26ca8.chunk.js.map": "/static/js/9642.e8a26ca8.chunk.js.map",
@@ -141,6 +141,6 @@
   },
   "entrypoints": [
     "static/css/main.63647acc.css",
-    "static/js/main.15fc39e1.js"
+    "static/js/main.dd9ebbea.js"
   ]
 }
